@@ -12,7 +12,7 @@ public class HelloWorldController {
     public String hello(@RequestParam(value="name", required=false, defaultValue="World") String name, Model model) {
         model.addAttribute("name", name);
         return "helloworld";
-        //comments for changeset
+        //comments for changeset updated
     }
 
 }
