@@ -13,7 +13,7 @@ import static com.jayway.restassured.RestAssured.given;
 
 public class HelloControllerTest {
 	
-	//Todo: make this work later
+	//Todo: make this work later.
 	/*@Before public void 
 	given_rest_assured_is_configured_with_greeting_controller() {
 	    RestAssuredMockMvc.standaloneSetup(new HelloWorldController());   
