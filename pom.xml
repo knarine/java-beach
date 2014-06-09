@@ -11,10 +11,10 @@
   	<spring.version>4.0.1.RELEASE</spring.version>
   </properties>
 <distributionManagement>
-    <snapshotRepository>
+     <repository>
         <id>artifact-repository</id>
         <url>https://github.com/knarine/java-beach-artifacts/tree/master/snapshots</url>
-    </snapshotRepository>
+    </repository>
 </distributionManagement>
   <dependencies>
   	<dependency>
