@@ -8,7 +8,7 @@
   <name>Spring4MVCHelloWorld Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
-    <connection>scm:git:http://github.com/knarine/java-beach-artifacts.git</connection>
+    <connection>scm:git:https://github.com/knarine/java-beach-artifacts.git</connection>
   </scm>
   <properties>
   	<spring.version>4.0.1.RELEASE</spring.version>
@@ -16,7 +16,7 @@
   <distributionManagement>
     <repository>
         <id>artifact-repository</id>
-        <url>http://github.com/knarine/java-beach-artifacts.git</url>
+        <url>https://github.com/knarine/java-beach-artifacts.git</url>
     </repository>
 </distributionManagement>
   <dependencies>
