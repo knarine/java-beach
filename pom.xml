@@ -12,7 +12,7 @@
   </properties>
 <distributionManagement>
     <snapshotRepository>
-        <id>snapshot-repo</id>
+        <id>artifact-repository</id>
         <url>https://github.com/knarine/java-beach-artifacts/tree/master/snapshots</url>
     </snapshotRepository>
 </distributionManagement>
