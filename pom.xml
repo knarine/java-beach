@@ -14,6 +14,7 @@
     <checkstyle.version>2.9.1</checkstyle.version>
     <surefire.reportplugin.version>2.12.4</surefire.reportplugin.version>
     <cobertura.version>2.5.2</cobertura.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <distributionManagement>
     <repository>
