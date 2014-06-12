@@ -23,6 +23,5 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="C:/Users/kalisha/.gradle/caches/artifacts-26/filestore/org.springframework/spring-test/4.0.1.RELEASE/jar/367212c3b84c63a48220efa0fe8e9a3a937fcf68/spring-test-4.0.1.RELEASE.jar" sourcepath="C:/Users/kalisha/.gradle/caches/artifacts-26/filestore/org.springframework/spring-test/4.0.1.RELEASE/source/80d1cb55a50a69e622d3b371380e36aab414a32b/spring-test-4.0.1.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
